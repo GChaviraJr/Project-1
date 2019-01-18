@@ -1,5 +1,8 @@
 # Project-1
 
+"I" is in reference to Guadalupe Chavira Jr. in the herein documentation of this application. 
+“I am making my contributions/ submissions to this project solely in my personal capacity and am not conveying any rights to any intellectual property of any third parties.”
+
 Project Title: Brewery Crawl
 
 Team Members: Hailey Dean, Jonathan Cruz, Lupe Chavira, Soizic Holloway 
